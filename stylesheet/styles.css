@@ -1,0 +1,93 @@
+body {
+	font-family: 'Cardo', serif;
+	background-color: floralwhite;
+	margin: none;
+}
+    
+​.jumbotron {	
+	background-image:url('http://upload.wikimedia.org/wikipedia/commons/6/62/Drip_Coffee_Bangkok.jpg') ;
+	background-size: cover;
+    background-repeat: no-repeat;
+	padding: 20%;
+	margin-top: -40px;
+	width: 100%;
+	background-attachment: fixed;
+	background-position:  center -238px;
+}
+
+.jumbotron h1 {
+	position: absolute;
+	color: white;
+	font-family: 'Cardo', serif; ;
+}
+
+
+
+.bg{ 
+    background-image: url('https://cdn.shortpixel.ai/client/q_lossy,ret_img/https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Agency-Gradient.jpg');
+    /* height: 100px; */
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    height: 200px;
+    /* background-position: center center; */
+}
+
+
+.bg1{ 
+    background-image: url('https://cdn.shortpixel.ai/client/q_lossy,ret_img/https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Agency-Gradient.jpg');
+    /* height: 100px; */
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    height: 200px;
+    /* background-position: center center; */
+}
+.mission {
+	background-color:#f4eae9	
+	
+}
+
+.mission h3 {
+	font-family:'cardo', 'serif';
+	padding: 5% 10% ;
+	text-align: center;
+	position: center;
+
+}
+
+.testimonials h3 {
+	font-family: 'cardo', serif;
+	padding: 10%;
+}
+
+.box{
+	display: flex;
+	justify-content: space-between;
+	padding: 10%;
+}
+
+
+.card-body {
+	font-family: 'Cardo', serif;
+	text-align: center;
+   
+}
+
+.card {
+	 background-color:transparent;
+	 text-align: center;
+}
+
+
+
+
+
+.bottom-image {
+	height: 100px;
+	width: 90%;
+}
+
+.row {
+	padding:5%
+}
+
+
